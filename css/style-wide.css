@@ -1,0 +1,44 @@
+/*
+	Aerial by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/* Basic */
+
+	body, input, select, textarea {
+		font-size: 13pt;
+	}
+
+/* BG */
+	@-moz-keyframes bg { 0% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); } 100% { -moz-transform: translate3d(-1500px,0,0); -webkit-transform: translate3d(-1500px,0,0); -o-transform: translate3d(-1500px,0,0); -ms-transform: translate3d(-1500px,0,0); transform: translate3d(-1500px,0,0); } }
+	@-webkit-keyframes bg { 0% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); } 100% { -moz-transform: translate3d(-1500px,0,0); -webkit-transform: translate3d(-1500px,0,0); -o-transform: translate3d(-1500px,0,0); -ms-transform: translate3d(-1500px,0,0); transform: translate3d(-1500px,0,0); } }
+	@-o-keyframes bg { 0% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); } 100% { -moz-transform: translate3d(-1500px,0,0); -webkit-transform: translate3d(-1500px,0,0); -o-transform: translate3d(-1500px,0,0); -ms-transform: translate3d(-1500px,0,0); transform: translate3d(-1500px,0,0); } }
+	@-ms-keyframes bg { 0% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); } 100% { -moz-transform: translate3d(-1500px,0,0); -webkit-transform: translate3d(-1500px,0,0); -o-transform: translate3d(-1500px,0,0); -ms-transform: translate3d(-1500px,0,0); transform: translate3d(-1500px,0,0); } }
+	@keyframes bg { 0% { -moz-transform: translate3d(0,0,0); -webkit-transform: translate3d(0,0,0); -o-transform: translate3d(0,0,0); -ms-transform: translate3d(0,0,0); transform: translate3d(0,0,0); } 100% { -moz-transform: translate3d(-1500px,0,0); -webkit-transform: translate3d(-1500px,0,0); -o-transform: translate3d(-1500px,0,0); -ms-transform: translate3d(-1500px,0,0); transform: translate3d(-1500px,0,0); } }
+
+	#bg {
+		background-size: 1500px auto;
+		width: 4500px;
+	}
+/*
+     FILE ARCHIVED ON 12:17:45 Dec 28, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:17:07 May 08, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  exclusion.robots: 0.428
+  PetaboxLoader3.datanode: 66.246 (4)
+  CDXLines.iter: 20.267 (3)
+  exclusion.robots.policy: 0.412
+  PetaboxLoader3.resolve: 52.721 (2)
+  captures_list: 99.539
+  esindex: 0.026
+  LoadShardBlock: 74.02 (3)
+  RedisCDXSource: 1.295
+  load_resource: 48.333
+*/
